@@ -1,1 +1,2 @@
-*.md linguist-language=C
+*.c linguist-language=c
+*.cpp linguist-language=cpp
